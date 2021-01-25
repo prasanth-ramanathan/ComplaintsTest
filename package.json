@@ -36,7 +36,6 @@
     "compile-sass": "node-sass src/assets/sass/light-bootstrap-dashboard-react.scss src/assets/css/light-bootstrap-dashboard-react.css",
     "minify-sass": "node-sass src/assets/sass/light-bootstrap-dashboard-react.scss src/assets/css/light-bootstrap-dashboard-react.min.css --output-style compressed",
     "map-sass": "node-sass src/assets/sass/light-bootstrap-dashboard-react.scss src/assets/css/light-bootstrap-dashboard-react.css --source-map true"
-
   },
   "eslintConfig": {
     "extends": [
